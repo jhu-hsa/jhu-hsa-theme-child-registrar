@@ -1,0 +1,17 @@
+/*
+    Theme Name: JHU HSA - Registrar
+    Theme URI: http://hsa-dev.jhu.edu/recreation
+    Description: This is for the Recreation site that has a calendar.
+    Author: Aaron Madhavan/MStoner
+    Template: jhu-hsa-theme
+    Version: 0.1
+    */
+/*special for registration */
+.validation .validation-form-group{ float: left;
+    width: 75%;}
+	.validation .validation-results-group{ float: left;
+    }
+	.validation-results-group .table-overthrow .table-wrap{width:100%;min-width:350px;border:none;}
+
+.validation  img.alignright{float:right;}	
+	
